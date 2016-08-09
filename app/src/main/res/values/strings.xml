@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">"評価する"</string>
+
+    <string name="textView1">"受け取り評価をしてください"</string>
+
+    <string name="textView2">"本が発送されました。\n本が到着したら、出品者の評価をしてください。"</string>
+
+    <string name="checkBoxEvaluation">"中身を確認しました"</string>
+
+    <string name="radioButtonGood">"良い"</string>
+
+    <string name="radioButtonNeutral">"普通"</string>
+
+    <string name="radioButtonBad">"悪い"</string>
+
+    <string name="textView3">"本を送った相手に評価のコメントを送信しましょう。(例)ありがとうございました。本が届きました。またよろしくお願いします。"</string>
+
+    <string name="buttonTransmission">"送信"</string>
+
+
+
+</resources>
